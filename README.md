@@ -13,4 +13,4 @@ The classifiers tested were Logistic Regression, SVM, Random Forest, and AdaBoos
 This notebook is not a pipeline. Instead, it tests several different possible models.
 The best model was determined to be a kMeans clustering model on PCA combined with a Random Forest classifier.
 
-Report is available on request.
+Report and diagrams are available on request.
