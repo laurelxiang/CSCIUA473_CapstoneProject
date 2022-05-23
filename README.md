@@ -1,4 +1,4 @@
-# CSCIUA473 Introduction to Machine Learning CapstoneProject: Classification Flavor
+# CSCIUA 473 Introduction to Machine Learning CapstoneProject: Classification Flavor
 
 Spotify released an API that reports the audio features of its songs, such as “tempo” or “energy”. 
 A subset of the API containing 50k randomly picked songs and its features was retrieved, including genre labels. 
