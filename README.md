@@ -11,6 +11,6 @@ The clustering methods tested were kMeans and DBSCAN.
 The classifiers tested were Logistic Regression, SVM, Random Forest, and AdaBoost.
 
 This notebook is not a pipeline. Instead, it tests several different possible models.
-The best model was determined to be a kMeans clustering model on PCA combined with a Random Forest classifier.
+The best model was determined to be a kMeans clustering model on PCA combined with a Random Forest classifier with an AUC of 0.92 and an accuracy of 92%.
 
 Report and diagrams are available on request.
